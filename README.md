@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
+## 🌱 About Me
+
+🔭 I am Tran Dinh Phu, a Master student. My research interest are Machine Learning, Deep Learning, Computer Vision and MLOps. I got my Bachelor in Electrical Engineering at Hanoi University of Science and Technology (HUST - top 1 uni in Science and Technology in Vietnam) in 2022. Then, I start my Master program in Computer Science at Korea Advanced Institute of Science and Technology (KAIST - top 1 uni in Science and Technology in Korea) and will graduate in end-2024.
 <!--
 **PhuTran1005/PhuTran1005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
