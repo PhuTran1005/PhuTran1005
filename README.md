@@ -2,9 +2,7 @@
 
 ## 🌱 About Me
 
-🔭 I am Tran Dinh Phu, a Master student. My research interest are Machine Learning, Deep Learning, Computer Vision and MLOps.
-I got my Bachelor in Electrical Engineering at Hanoi University of Science and Technology (HUST - top 1 uni in Science and Technology in Vietnam) in 2022. 
-Then, I start my Master program in Computer Science at Korea Advanced Institute of Science and Technology (KAIST - top 1 uni in Science and Technology in Korea) and will graduate in end-2024.
+🔭 I am Tran Dinh Phu, a dedicated researcher currently pursuing an integrated Master’s and PhD program in Computer Science at the Korea Advanced Institute of Science and Technology (KAIST), South Korea’s leading institution for science and technology. My primary research interests lie at the intersection of Machine Learning, Deep Learning, Computer Vision, and MLOps. Prior to joining KAIST, I earned my Bachelor’s degree in Electrical Engineering in 2022 from Hanoi University of Science and Technology (HUST), the top-ranked technical university in Vietnam. I am currently working toward the completion of my doctoral studies, with an anticipated graduation in Fall 2028.
 
 <!--
 **PhuTran1005/PhuTran1005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
