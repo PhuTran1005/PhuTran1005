@@ -20,7 +20,7 @@
 
 ---
 
-- 🎓 I'm an integrated M.S.–Ph.D. student in **Computer Science** at **KAIST**, South Korea.
+- 🎓 I'm an Ph.D. student in **Computer Science** at **KAIST**, South Korea.
 - 🔭 My research focuses on **Computer Vision**, **Image Restoration**, **Efficient Deep Learning**, and **Multimodal & Agentic AI**.
 - 🏫 I received my B.Eng. in **Electrical Engineering** from **Hanoi University of Science and Technology (HUST)** in 2022.
 - 🌐 Visit my [Personal Website](https://phutran1005.github.io/) for more information.
