@@ -6,10 +6,10 @@
 ---
 
 <p align="center">
-  <a href="[YOUR_GOOGLE_SCHOLAR_URL](https://scholar.google.com/citations?user=peeXHDYAAAAJ&hl=en)">
+  <a href="https://scholar.google.com/citations?user=peeXHDYAAAAJ&hl=en">
     <img src="https://img.shields.io/badge/Google%20Scholar-Tran%20Dinh%20Phu-4285F4?style=flat-square&logo=googlescholar&logoColor=white&labelColor=555555" alt="Google Scholar">
   </a>
-  <a href="[YOUR_PERSONAL_WEBSITE_URL](https://phutran1005.github.io/)">
+  <a href="https://phutran1005.github.io/">
     <img src="https://img.shields.io/badge/Personal%20Website-Portfolio-44CC11?style=flat-square&logo=googlechrome&logoColor=white&labelColor=555555" alt="Personal Website">
   </a>
 </p>
@@ -23,7 +23,7 @@
 - 🎓 I'm an integrated M.S.–Ph.D. student in **Computer Science** at **KAIST**, South Korea.
 - 🔭 My research focuses on **Computer Vision**, **Image Restoration**, **Efficient Deep Learning**, and **Multimodal & Agentic AI**.
 - 🏫 I received my B.Eng. in **Electrical Engineering** from **Hanoi University of Science and Technology (HUST)** in 2022.
-- 🌐 Visit my [Personal Website]([YOUR_PERSONAL_WEBSITE_URL](https://phutran1005.github.io/)) for more information.
+- 🌐 Visit my [Personal Website](https://phutran1005.github.io/) for more information.
 - 📫 Feel free to reach out to me at **phutx2000@gmail.com** or **phutx2000@kaist.ac.kr**.
 
 
